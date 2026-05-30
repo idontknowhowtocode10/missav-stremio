@@ -59,13 +59,13 @@ docker run -p 7000:7000 missav-addon
 
 | Stremio ID | MissAV URL |
 |---|---|
-| `missav-new` | `/en/new` |
-| `missav-today-hot` | `/en/today-hot` |
-| `missav-weekly-hot` | `/en/weekly-hot` |
-| `missav-monthly-hot` | `/en/monthly-hot` |
-| `missav-uncensored-leak` | `/en/uncensored-leak` |
-| `missav-genre` | `/en/tags/{genre}` |
-| `missav-actress` | `/en/actresses/{name}` |
+| `missav-new` | `/en/new` on missav.ws |
+| `missav-today-hot` | `/en/today-hot` on missav.ws |
+| `missav-weekly-hot` | `/en/weekly-hot` on missav.ws |
+| `missav-monthly-hot` | `/en/monthly-hot` on missav.ws |
+| `missav-uncensored-leak` | `/en/uncensored-leak` on missav.ws |
+| `missav-genre` | `/en/tags/{genre}` on missav.ws |
+| `missav-actress` | `/en/actresses/{name}` on missav.ws |
 
 ## Troubleshooting
 
