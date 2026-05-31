@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: missav-magnets
+    runtime: node
+    buildCommand: npm install
+    startCommand: node index.js
+    envVars:
+      - key: PUBLIC_URL
+        value: https://missav-magnets.onrender.com
+      - key: NODE_ENV
+        value: production
